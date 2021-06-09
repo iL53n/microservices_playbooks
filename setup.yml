@@ -5,7 +5,7 @@
   vars:
     env_vars: |
       DOCKER_USER=il53n
-      DOCKER_PASSWORD=
+      DOCKER_PASSWORD=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dd
       ADS_DATABASE_URL=postgresql://ads:pYI8dDjnm7Rs@localhost/ads_microservice_production
       AUTH_DATABASE_URL=postgresql://auth:pYI8dDjnm7Rs@localhost/auth_microservice_production
       RABBITMQ_HOST=127.0.0.1
